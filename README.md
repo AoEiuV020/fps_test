@@ -1,16 +1,5 @@
 # fps_test
 
-A new Flutter project.
+FPS test demo
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1271" alt="截屏2024-11-24 13 25 08" src="https://github.com/user-attachments/assets/34de61ae-8efe-44ef-9888-a9599e316e36">
