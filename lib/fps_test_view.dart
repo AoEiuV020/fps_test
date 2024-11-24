@@ -127,6 +127,21 @@ class _FpsTestViewState extends State<FpsTestView>
               ),
             ),
           ),
+          // 添加悬浮的关闭按钮
+          Positioned(
+            top: 40,
+            right: 16,
+            child: Container(
+              decoration: BoxDecoration(
+                color: Colors.black.withOpacity(0.7),
+                shape: BoxShape.circle,
+              ),
+              child: IconButton(
+                icon: const Icon(Icons.close, color: Colors.white),
+                onPressed: () => Navigator.of(context).pop(),
+              ),
+            ),
+          ),
         ],
       ),
     );
