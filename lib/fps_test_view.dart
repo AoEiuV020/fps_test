@@ -62,9 +62,6 @@ class _FpsTestViewState extends State<FpsTestView>
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: const Text('FPS 测试'),
-      ),
       body: Stack(
         children: [
           // 网格区域（全屏）
